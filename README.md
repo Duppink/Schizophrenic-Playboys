@@ -1,1 +1,1 @@
-# SchizophrenicPlayboys
+# Schizophrenic-Playboys
