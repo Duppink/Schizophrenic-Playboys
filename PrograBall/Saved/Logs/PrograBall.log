@@ -1156,3 +1156,203 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.10-05.32.13:804][462]LogSavePackage: Moving '../../../../../../Users/valen/OneDrive/Documentos/GitHub/Schizophrenic-Playboys/PrograBall/Saved/123sefuelabolita795FC63648BD0F485C0DFBA34774C689.tmp' to '../../../../../../Users/valen/OneDrive/Documentos/GitHub/Schizophrenic-Playboys/PrograBall/Content/123sefuelabolita.umap'
 [2020.07.10-05.32.13:869][462]AssetCheck: New page: Asset Save: 123sefuelabolita
 [2020.07.10-05.32.13:869][462]LogContentValidation: Display: Validating World /Game/123sefuelabolita.123sefuelabolita
+[2020.07.10-05.39.10:093][820]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/valen/OneDrive/Documentos/Cubase LE AI Elements Projects/Shootmupp/Audio/ABOXINDUVOID.wav)
+[2020.07.10-05.39.10:347][820]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave ABOXINDUVOID...
+[2020.07.10-05.39.10:354][820]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/RollingBP/ABOXINDUVOID.ABOXINDUVOID will be modified from 40 to 40.
+[2020.07.10-05.39.13:038][820]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 18307460 while cooking SoundWave /Game/RollingBP/ABOXINDUVOID.ABOXINDUVOID.
+[2020.07.10-05.40.00:983][708]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.10-05.40.04:106][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.07.10-05.40.05:078][832]LogSavePackage: Moving '../../../../../../Users/valen/OneDrive/Documentos/GitHub/Schizophrenic-Playboys/PrograBall/Saved/123sefuelabolitaE4F7018044D8470D9E0306BA0FB26278.tmp' to '../../../../../../Users/valen/OneDrive/Documentos/GitHub/Schizophrenic-Playboys/PrograBall/Content/123sefuelabolita.umap'
+[2020.07.10-05.40.05:151][832]AssetCheck: New page: Asset Save: 123sefuelabolita
+[2020.07.10-05.40.05:151][832]LogContentValidation: Display: Validating World /Game/123sefuelabolita.123sefuelabolita
+[2020.07.10-05.40.08:419][968]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/RollingBP/ABOXINDUVOID_Cue.ABOXINDUVOID_Cue
+[2020.07.10-05.40.10:275][968]LogSlate: Took 0.015505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.10-05.40.13:329][ 26]LogSlate: Window 'ABOXINDUVOID_Cue' being destroyed
+[2020.07.10-05.40.15:043][113]LogSavePackage: Moving '../../../../../../Users/valen/OneDrive/Documentos/GitHub/Schizophrenic-Playboys/PrograBall/Saved/ABOXINDUVOID_Cue3D2178974EBE4B57A4DC349AB6331FB7.tmp' to '../../../../../../Users/valen/OneDrive/Documentos/GitHub/Schizophrenic-Playboys/PrograBall/Content/RollingBP/ABOXINDUVOID_Cue.uasset'
+[2020.07.10-05.40.15:066][113]AssetCheck: New page: Asset Save: ABOXINDUVOID_Cue
+[2020.07.10-05.40.15:066][113]LogContentValidation: Display: Validating SoundCue /Game/RollingBP/ABOXINDUVOID_Cue.ABOXINDUVOID_Cue
+[2020.07.10-05.40.58:403][ 90]LogSavePackage: Moving '../../../../../../Users/valen/OneDrive/Documentos/GitHub/Schizophrenic-Playboys/PrograBall/Saved/ABOXINDUVOID_CueA21B8A344098F0E29D0AE09A301FD001.tmp' to '../../../../../../Users/valen/OneDrive/Documentos/GitHub/Schizophrenic-Playboys/PrograBall/Content/RollingBP/ABOXINDUVOID_Cue.uasset'
+[2020.07.10-05.40.58:426][ 90]AssetCheck: New page: Asset Save: ABOXINDUVOID_Cue
+[2020.07.10-05.40.58:426][ 90]LogContentValidation: Display: Validating SoundCue /Game/RollingBP/ABOXINDUVOID_Cue.ABOXINDUVOID_Cue
+[2020.07.10-05.41.24:614][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.07.10-05.41.24:834][916]LogSavePackage: Moving '../../../../../../Users/valen/OneDrive/Documentos/GitHub/Schizophrenic-Playboys/PrograBall/Saved/123sefuelabolita2FEE3C3248AC27719C7A9BB6E96A6A48.tmp' to '../../../../../../Users/valen/OneDrive/Documentos/GitHub/Schizophrenic-Playboys/PrograBall/Content/123sefuelabolita.umap'
+[2020.07.10-05.41.24:894][916]AssetCheck: New page: Asset Save: 123sefuelabolita
+[2020.07.10-05.41.24:894][916]LogContentValidation: Display: Validating World /Game/123sefuelabolita.123sefuelabolita
+[2020.07.10-05.41.42:444][736]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-05.41.42:506][736]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/123sefuelabolita.123sefuelabolita:PersistentLevel' has LevelScriptBlueprint '/Game/123sefuelabolita.123sefuelabolita:PersistentLevel.123sefuelabolita' with GeneratedClass '/Game/123sefuelabolita.123sefuelabolita_C' with ClassGeneratedBy '/Game/123sefuelabolita.123sefuelabolita:PersistentLevel.123sefuelabolita'
+[2020.07.10-05.41.42:506][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-05.41.42:506][736]PIE: New page: PIE session: 123sefuelabolita (09-07-2020 21:41:42)
+[2020.07.10-05.41.42:506][736]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_123sefuelabolita
+[2020.07.10-05.41.42:585][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079042s)
+[2020.07.10-05.41.42:643][736]LogAIModule: Creating AISystem for world 123sefuelabolita
+[2020.07.10-05.41.42:666][736]LogPlayLevel: PIE: World Init took: (0.079928s)
+[2020.07.10-05.41.42:666][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/123sefuelabolita.123sefuelabolita to /Game/UEDPIE_0_123sefuelabolita.123sefuelabolita (0.159259s)
+[2020.07.10-05.41.42:697][736]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.07.10-05.41.42:698][736]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-05.41.42:698][736]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-05.41.42:698][736]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-05.41.42:698][736]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-05.41.42:698][736]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-05.41.42:698][736]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-05.41.42:698][736]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-05.41.42:698][736]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-05.41.42:699][736]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-05.41.42:699][736]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-05.41.42:728][736]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.10-05.41.42:728][736]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.07.10-05.41.42:728][736]LogAudioMixer: Display: Is Default: Yes
+[2020.07.10-05.41.42:728][736]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.10-05.41.42:728][736]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.10-05.41.42:728][736]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.10-05.41.42:728][736]LogAudioMixer: Display: Channel Order:
+[2020.07.10-05.41.42:728][736]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-05.41.42:728][736]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-05.41.42:789][736]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.07.10-05.41.42:791][736]LogInit: FAudioDevice initialized.
+[2020.07.10-05.41.42:801][736]LogLoad: Game class is 'RollingGameMode_C'
+[2020.07.10-05.41.42:829][736]LogWorld: Bringing World /Game/UEDPIE_0_123sefuelabolita.123sefuelabolita up for play (max tick rate 60) at 2020.07.10-01.41.42
+[2020.07.10-05.41.42:829][736]LogWorld: Bringing up level for play took: 0.027283
+[2020.07.10-05.41.42:871][736]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.07.10-05.41.42:918][736]PIE: Play in editor start time for /Game/UEDPIE_0_123sefuelabolita 0,593
+[2020.07.10-05.41.42:919][736]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/123sefuelabolita.123sefuelabolita:PersistentLevel' has LevelScriptBlueprint '/Game/123sefuelabolita.123sefuelabolita:PersistentLevel.123sefuelabolita' with GeneratedClass '/Game/123sefuelabolita.123sefuelabolita_C' with ClassGeneratedBy '/Game/123sefuelabolita.123sefuelabolita:PersistentLevel.123sefuelabolita'
+[2020.07.10-05.42.07:091][ 72]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.10-05.42.07:110][ 72]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.10-05.42.07:139][ 72]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.10-05.42.07:139][ 72]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/123sefuelabolita.123sefuelabolita:PersistentLevel' has LevelScriptBlueprint '/Game/123sefuelabolita.123sefuelabolita:PersistentLevel.123sefuelabolita' with GeneratedClass '/Game/123sefuelabolita.123sefuelabolita_C' with ClassGeneratedBy '/Game/123sefuelabolita.123sefuelabolita:PersistentLevel.123sefuelabolita'
+[2020.07.10-05.42.07:140][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-05.42.07:140][ 72]LogWorld: BeginTearingDown for /Game/UEDPIE_0_123sefuelabolita
+[2020.07.10-05.42.07:140][ 72]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.10-05.42.07:140][ 72]LogWorld: UWorld::CleanupWorld for 123sefuelabolita, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-05.42.07:141][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-05.42.07:153][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-05.42.07:153][ 72]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/123sefuelabolita.123sefuelabolita:PersistentLevel' has LevelScriptBlueprint '/Game/123sefuelabolita.123sefuelabolita:PersistentLevel.123sefuelabolita' with GeneratedClass '/Game/123sefuelabolita.123sefuelabolita_C' with ClassGeneratedBy '/Game/123sefuelabolita.123sefuelabolita:PersistentLevel.123sefuelabolita'
+[2020.07.10-05.42.07:158][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-05.42.07:192][ 72]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.10-05.42.07:197][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-05.42.07:201][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.07.10-05.42.07:215][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.07.10-05.42.20:384][318]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 ../../../../../../Users/valen/OneDrive/Documentos/Cubase LE AI Elements Projects/Shootmupp/Audio/POST_a_box_inthevoid_POST.mp3)
+[2020.07.10-05.42.27:187][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.07.10-05.42.28:990][551]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.10-05.42.29:361][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.07.10-05.42.32:352][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.07.10-05.42.32:578][681]LogSavePackage: Moving '../../../../../../Users/valen/OneDrive/Documentos/GitHub/Schizophrenic-Playboys/PrograBall/Saved/123sefuelabolita1FDDC19B4D2B620E7CE59A9EE808FC31.tmp' to '../../../../../../Users/valen/OneDrive/Documentos/GitHub/Schizophrenic-Playboys/PrograBall/Content/123sefuelabolita.umap'
+[2020.07.10-05.42.32:638][681]AssetCheck: New page: Asset Save: 123sefuelabolita
+[2020.07.10-05.42.32:638][681]LogContentValidation: Display: Validating World /Game/123sefuelabolita.123sefuelabolita
+[2020.07.10-05.42.37:831][944]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.07.10-05.42.38:059][944]LogSavePackage: Moving '../../../../../../Users/valen/OneDrive/Documentos/GitHub/Schizophrenic-Playboys/PrograBall/Saved/123sefuelabolita2A5F6EE04317E7BBA68884983D6D4845.tmp' to '../../../../../../Users/valen/OneDrive/Documentos/GitHub/Schizophrenic-Playboys/PrograBall/Content/123sefuelabolita.umap'
+[2020.07.10-05.42.38:340][944]AssetCheck: New page: Asset Save: 123sefuelabolita
+[2020.07.10-05.42.38:340][944]LogContentValidation: Display: Validating World /Game/123sefuelabolita.123sefuelabolita
+[2020.07.10-05.42.43:506][227]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.10-05.42.43:538][227]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/123sefuelabolita.123sefuelabolita:PersistentLevel' has LevelScriptBlueprint '/Game/123sefuelabolita.123sefuelabolita:PersistentLevel.123sefuelabolita' with GeneratedClass '/Game/123sefuelabolita.123sefuelabolita_C' with ClassGeneratedBy '/Game/123sefuelabolita.123sefuelabolita:PersistentLevel.123sefuelabolita'
+[2020.07.10-05.42.43:538][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.10-05.42.43:539][227]PIE: New page: PIE session: 123sefuelabolita (09-07-2020 21:42:43)
+[2020.07.10-05.42.43:539][227]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_123sefuelabolita
+[2020.07.10-05.42.43:570][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031675s)
+[2020.07.10-05.42.43:573][227]LogAIModule: Creating AISystem for world 123sefuelabolita
+[2020.07.10-05.42.43:574][227]LogPlayLevel: PIE: World Init took: (0.002908s)
+[2020.07.10-05.42.43:574][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/123sefuelabolita.123sefuelabolita to /Game/UEDPIE_0_123sefuelabolita.123sefuelabolita (0.035091s)
+[2020.07.10-05.42.43:611][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.07.10-05.42.43:611][227]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.10-05.42.43:611][227]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.10-05.42.43:611][227]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.10-05.42.43:611][227]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.10-05.42.43:611][227]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.10-05.42.43:611][227]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.10-05.42.43:611][227]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.10-05.42.43:611][227]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.10-05.42.43:612][227]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.10-05.42.43:612][227]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.10-05.42.43:641][227]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.10-05.42.43:641][227]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.07.10-05.42.43:641][227]LogAudioMixer: Display: Is Default: Yes
+[2020.07.10-05.42.43:641][227]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.10-05.42.43:641][227]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.10-05.42.43:641][227]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.10-05.42.43:641][227]LogAudioMixer: Display: Channel Order:
+[2020.07.10-05.42.43:641][227]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.10-05.42.43:641][227]LogAudioMixer: Display: 1: FrontRight
+[2020.07.10-05.42.43:669][227]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.07.10-05.42.43:671][227]LogInit: FAudioDevice initialized.
+[2020.07.10-05.42.43:684][227]LogLoad: Game class is 'RollingGameMode_C'
+[2020.07.10-05.42.43:690][227]LogWorld: Bringing World /Game/UEDPIE_0_123sefuelabolita.123sefuelabolita up for play (max tick rate 60) at 2020.07.10-01.42.43
+[2020.07.10-05.42.43:690][227]LogWorld: Bringing up level for play took: 0.005001
+[2020.07.10-05.42.43:690][227]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.07.10-05.42.43:693][227]PIE: Play in editor start time for /Game/UEDPIE_0_123sefuelabolita -0,632
+[2020.07.10-05.42.43:693][227]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/123sefuelabolita.123sefuelabolita:PersistentLevel' has LevelScriptBlueprint '/Game/123sefuelabolita.123sefuelabolita:PersistentLevel.123sefuelabolita' with GeneratedClass '/Game/123sefuelabolita.123sefuelabolita_C' with ClassGeneratedBy '/Game/123sefuelabolita.123sefuelabolita:PersistentLevel.123sefuelabolita'
+[2020.07.10-05.43.05:178][419]LogBlueprintUserMessages: [PelotitaSpawneada_2] Holanda Yugopotamio
+[2020.07.10-05.43.05:178][419]LogBlueprintUserMessages: [PelotitaSpawneada_C_0] Holanda Yugopotamio
+[2020.07.10-05.43.05:178][419]LogBlueprintUserMessages: [PelotitaSpawneada_C_1] Holanda Yugopotamio
+[2020.07.10-05.43.05:178][419]LogBlueprintUserMessages: [PelotitaSpawneada_C_2] Holanda Yugopotamio
+[2020.07.10-05.43.05:178][419]LogBlueprintUserMessages: [PelotitaSpawneada_C_3] Holanda Yugopotamio
+[2020.07.10-05.43.05:178][419]LogBlueprintUserMessages: [PelotitaSpawneada_C_4] Holanda Yugopotamio
+[2020.07.10-05.43.05:178][419]LogBlueprintUserMessages: [PelotitaSpawneada_C_5] Holanda Yugopotamio
+[2020.07.10-05.43.14:927][967]LogBlueprintUserMessages: [PelotitaSpawneada_2] Holanda Yugopotamio
+[2020.07.10-05.43.14:928][967]LogBlueprintUserMessages: [PelotitaSpawneada_C_0] Holanda Yugopotamio
+[2020.07.10-05.43.14:928][967]LogBlueprintUserMessages: [PelotitaSpawneada_C_1] Holanda Yugopotamio
+[2020.07.10-05.43.14:928][967]LogBlueprintUserMessages: [PelotitaSpawneada_C_2] Holanda Yugopotamio
+[2020.07.10-05.43.14:928][967]LogBlueprintUserMessages: [PelotitaSpawneada_C_3] Holanda Yugopotamio
+[2020.07.10-05.43.14:928][967]LogBlueprintUserMessages: [PelotitaSpawneada_C_4] Holanda Yugopotamio
+[2020.07.10-05.43.14:928][967]LogBlueprintUserMessages: [PelotitaSpawneada_C_5] Holanda Yugopotamio
+[2020.07.10-05.43.14:929][967]LogBlueprintUserMessages: [PelotitaSpawneada_C_6] Holanda Yugopotamio
+[2020.07.10-05.43.14:929][967]LogBlueprintUserMessages: [PelotitaSpawneada_C_7] Holanda Yugopotamio
+[2020.07.10-05.43.14:929][967]LogBlueprintUserMessages: [PelotitaSpawneada_C_8] Holanda Yugopotamio
+[2020.07.10-05.43.14:929][967]LogBlueprintUserMessages: [PelotitaSpawneada_C_9] Holanda Yugopotamio
+[2020.07.10-05.43.38:000][232]LogBlueprintUserMessages: [PelotitaSpawneada_2] Holanda Yugopotamio
+[2020.07.10-05.43.38:000][232]LogBlueprintUserMessages: [PelotitaSpawneada_C_0] Holanda Yugopotamio
+[2020.07.10-05.43.38:000][232]LogBlueprintUserMessages: [PelotitaSpawneada_C_1] Holanda Yugopotamio
+[2020.07.10-05.43.38:000][232]LogBlueprintUserMessages: [PelotitaSpawneada_C_2] Holanda Yugopotamio
+[2020.07.10-05.43.38:000][232]LogBlueprintUserMessages: [PelotitaSpawneada_C_3] Holanda Yugopotamio
+[2020.07.10-05.43.38:000][232]LogBlueprintUserMessages: [PelotitaSpawneada_C_4] Holanda Yugopotamio
+[2020.07.10-05.43.38:000][232]LogBlueprintUserMessages: [PelotitaSpawneada_C_5] Holanda Yugopotamio
+[2020.07.10-05.43.38:000][232]LogBlueprintUserMessages: [PelotitaSpawneada_C_6] Holanda Yugopotamio
+[2020.07.10-05.43.38:000][232]LogBlueprintUserMessages: [PelotitaSpawneada_C_7] Holanda Yugopotamio
+[2020.07.10-05.43.38:000][232]LogBlueprintUserMessages: [PelotitaSpawneada_C_8] Holanda Yugopotamio
+[2020.07.10-05.43.38:000][232]LogBlueprintUserMessages: [PelotitaSpawneada_C_9] Holanda Yugopotamio
+[2020.07.10-05.43.38:000][232]LogBlueprintUserMessages: [PelotitaSpawneada_C_10] Holanda Yugopotamio
+[2020.07.10-05.43.38:000][232]LogBlueprintUserMessages: [PelotitaSpawneada_C_11] Holanda Yugopotamio
+[2020.07.10-05.43.38:000][232]LogBlueprintUserMessages: [PelotitaSpawneada_C_12] Holanda Yugopotamio
+[2020.07.10-05.43.38:001][232]LogBlueprintUserMessages: [PelotitaSpawneada_C_13] Holanda Yugopotamio
+[2020.07.10-05.43.38:832][277]LogBlueprintUserMessages: [PelotitaSpawneada_2] Holanda Yugopotamio
+[2020.07.10-05.43.38:833][277]LogBlueprintUserMessages: [PelotitaSpawneada_C_0] Holanda Yugopotamio
+[2020.07.10-05.43.38:833][277]LogBlueprintUserMessages: [PelotitaSpawneada_C_1] Holanda Yugopotamio
+[2020.07.10-05.43.38:833][277]LogBlueprintUserMessages: [PelotitaSpawneada_C_2] Holanda Yugopotamio
+[2020.07.10-05.43.38:833][277]LogBlueprintUserMessages: [PelotitaSpawneada_C_3] Holanda Yugopotamio
+[2020.07.10-05.43.38:833][277]LogBlueprintUserMessages: [PelotitaSpawneada_C_4] Holanda Yugopotamio
+[2020.07.10-05.43.38:833][277]LogBlueprintUserMessages: [PelotitaSpawneada_C_5] Holanda Yugopotamio
+[2020.07.10-05.43.38:833][277]LogBlueprintUserMessages: [PelotitaSpawneada_C_6] Holanda Yugopotamio
+[2020.07.10-05.43.38:833][277]LogBlueprintUserMessages: [PelotitaSpawneada_C_7] Holanda Yugopotamio
+[2020.07.10-05.43.38:833][277]LogBlueprintUserMessages: [PelotitaSpawneada_C_8] Holanda Yugopotamio
+[2020.07.10-05.43.38:833][277]LogBlueprintUserMessages: [PelotitaSpawneada_C_9] Holanda Yugopotamio
+[2020.07.10-05.43.38:833][277]LogBlueprintUserMessages: [PelotitaSpawneada_C_10] Holanda Yugopotamio
+[2020.07.10-05.43.38:833][277]LogBlueprintUserMessages: [PelotitaSpawneada_C_11] Holanda Yugopotamio
+[2020.07.10-05.43.38:833][277]LogBlueprintUserMessages: [PelotitaSpawneada_C_12] Holanda Yugopotamio
+[2020.07.10-05.43.38:833][277]LogBlueprintUserMessages: [PelotitaSpawneada_C_13] Holanda Yugopotamio
+[2020.07.10-05.43.42:340][464]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.10-05.43.42:351][464]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.10-05.43.42:369][464]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.10-05.43.42:369][464]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/123sefuelabolita.123sefuelabolita:PersistentLevel' has LevelScriptBlueprint '/Game/123sefuelabolita.123sefuelabolita:PersistentLevel.123sefuelabolita' with GeneratedClass '/Game/123sefuelabolita.123sefuelabolita_C' with ClassGeneratedBy '/Game/123sefuelabolita.123sefuelabolita:PersistentLevel.123sefuelabolita'
+[2020.07.10-05.43.42:369][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-05.43.42:369][464]LogWorld: BeginTearingDown for /Game/UEDPIE_0_123sefuelabolita
+[2020.07.10-05.43.42:369][464]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.10-05.43.42:369][464]LogWorld: UWorld::CleanupWorld for 123sefuelabolita, bSessionEnded=true, bCleanupResources=true
+[2020.07.10-05.43.42:371][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-05.43.42:384][464]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.10-05.43.42:385][464]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/123sefuelabolita.123sefuelabolita:PersistentLevel' has LevelScriptBlueprint '/Game/123sefuelabolita.123sefuelabolita:PersistentLevel.123sefuelabolita' with GeneratedClass '/Game/123sefuelabolita.123sefuelabolita_C' with ClassGeneratedBy '/Game/123sefuelabolita.123sefuelabolita:PersistentLevel.123sefuelabolita'
+[2020.07.10-05.43.42:389][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.10-05.43.42:422][464]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.10-05.43.42:428][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.10-05.43.42:433][464]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.07.10-05.43.42:455][465]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.07.10-05.43.44:597][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.07.10-05.43.44:828][568]LogSavePackage: Moving '../../../../../../Users/valen/OneDrive/Documentos/GitHub/Schizophrenic-Playboys/PrograBall/Saved/123sefuelabolitaFB623849402D33368ADF66B8BCA4997B.tmp' to '../../../../../../Users/valen/OneDrive/Documentos/GitHub/Schizophrenic-Playboys/PrograBall/Content/123sefuelabolita.umap'
+[2020.07.10-05.43.44:899][568]AssetCheck: New page: Asset Save: 123sefuelabolita
+[2020.07.10-05.43.44:899][568]LogContentValidation: Display: Validating World /Game/123sefuelabolita.123sefuelabolita
+[2020.07.10-05.43.47:669][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.07.10-05.43.47:911][691]LogSavePackage: Moving '../../../../../../Users/valen/OneDrive/Documentos/GitHub/Schizophrenic-Playboys/PrograBall/Saved/123sefuelabolitaCFCD9D4748E0607BFDA2B59237C4479D.tmp' to '../../../../../../Users/valen/OneDrive/Documentos/GitHub/Schizophrenic-Playboys/PrograBall/Content/123sefuelabolita.umap'
+[2020.07.10-05.43.47:969][691]AssetCheck: New page: Asset Save: 123sefuelabolita
+[2020.07.10-05.43.47:970][691]LogContentValidation: Display: Validating World /Game/123sefuelabolita.123sefuelabolita
+[2020.07.10-05.43.49:830][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.07.10-05.43.50:113][767]LogSavePackage: Moving '../../../../../../Users/valen/OneDrive/Documentos/GitHub/Schizophrenic-Playboys/PrograBall/Saved/ABOXINDUVOIDABBDDC664CA94C915AC3D283E5B1B43F.tmp' to '../../../../../../Users/valen/OneDrive/Documentos/GitHub/Schizophrenic-Playboys/PrograBall/Content/RollingBP/ABOXINDUVOID.uasset'
+[2020.07.10-05.43.50:132][767]AssetCheck: New page: Asset Save: ABOXINDUVOID
+[2020.07.10-05.43.50:132][767]LogContentValidation: Display: Validating SoundWave /Game/RollingBP/ABOXINDUVOID.ABOXINDUVOID
