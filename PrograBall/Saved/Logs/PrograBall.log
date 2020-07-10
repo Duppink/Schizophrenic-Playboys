@@ -1571,3 +1571,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.10-05.47.37:618][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.07.10-05.47.37:623][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
 [2020.07.10-05.47.37:641][964]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.07.10-05.57.32:790][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.07.10-05.57.33:466][ 35]LogSavePackage: Moving '../../../../../../Users/valen/OneDrive/Documentos/GitHub/Schizophrenic-Playboys/PrograBall/Saved/123sefuelabolita5A07ED574103FFB76073F0BB47B73F0B.tmp' to '../../../../../../Users/valen/OneDrive/Documentos/GitHub/Schizophrenic-Playboys/PrograBall/Content/123sefuelabolita.umap'
+[2020.07.10-05.57.33:535][ 35]AssetCheck: New page: Asset Save: 123sefuelabolita
+[2020.07.10-05.57.33:535][ 35]LogContentValidation: Display: Validating World /Game/123sefuelabolita.123sefuelabolita
